@@ -22,3 +22,59 @@
     padding:  9px 25px;
     cursor: pointer;
 }
+
+
+.cat1{
+    background-image: linear-gradient(90deg, orange, yellow);
+}
+
+.cat2{
+    background-image: linear-gradient(90deg, red, hotpink);
+}
+
+.cat3{
+    background-image: linear-gradient(90deg, blue, skyblue);
+
+}
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+
+.catagories h1{
+    color:white;
+}
+
+
+.catagories img{
+    width: 100px;
+}
+
+
+
+h5{
+    padding-bottom:30px;
+}
+
+
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+
+
+#subscribe{
+    height: 300px;
+}
+
+#subscribe h6{
+    color:gray;
+}
+
+footer{
+    text-align: center;
+}
